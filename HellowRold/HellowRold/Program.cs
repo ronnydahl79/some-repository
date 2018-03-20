@@ -13,5 +13,10 @@ namespace HellowRold
         {
             Console.Write("some different");
         }
+
+        static void YYYY(string[] args)
+        {
+            Console.Write("YYYY");
+        }
     }
 }
