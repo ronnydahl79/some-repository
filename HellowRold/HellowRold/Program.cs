@@ -8,5 +8,10 @@ namespace HellowRold
         {
             Console.Write("teete");
         }
+
+        static void YYYY(string[] args)
+        {
+            Console.Write("YYYY");
+        }
     }
 }
